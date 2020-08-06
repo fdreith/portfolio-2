@@ -3707,6 +3707,8 @@ body.is-touch #banner {
 
 #footer {
   background: #272833;
+  /* background: #fdfdfd; */
+
   padding: 6em 0;
   text-align: center;
 }
@@ -3807,6 +3809,7 @@ body.is-touch #banner {
 
   .wrapper {
     padding: 4.5em 0 2.5em 0;
+    background: #fdfdfd;
   }
 
   /* Dropotron */
@@ -4078,8 +4081,9 @@ body.is-touch #banner {
   }
 
   #titleBar .title {
-    /* color: #ffffff ; */
-    color: #4d4d4d;
+    /* color is hiding the undefined  */
+    color: #ffffff;
+    /* color: #4d4d4d; */
     display: block;
     font-weight: 300;
     height: 44px;
