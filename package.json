@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fdreith/portfolio-2.git",
+  "author": "Francesca Dreith <francesca.dreith@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node assets/js/main.js"
+  }
+}
