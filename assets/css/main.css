@@ -96,11 +96,6 @@ video {
   vertical-align: baseline;
 }
 
-body,
-section {
-  background-color: rgb(255, 255, 255);
-}
-
 article,
 aside,
 details,
@@ -179,7 +174,8 @@ html {
 
 html,
 body {
-  background: #1c1d26;
+  /* background: #1c1d26; */
+  background: rgb(255, 255, 255);
 }
 
 body.is-preload *,
